@@ -1,5 +1,6 @@
 # Drum Machine
-
+You can access the project in this link
+https://drum-7klqfgach-fadli-azhars-projects.vercel.app/
 ## Description
 
 This project is a drum machine built with **React**, **TypeScript**, and **Vite**. It is a functional replica of the drum machine from [freeCodeCamp](https://drum-machine.freecodecamp.rocks/). It allows users to trigger sounds using clickable buttons or corresponding keyboard keys.
